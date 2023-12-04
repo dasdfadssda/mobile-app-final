@@ -1,4 +1,4 @@
-# mafinal
+# 모바일 앱 개발 기말 과제 
 
 A new Flutter project.
 
